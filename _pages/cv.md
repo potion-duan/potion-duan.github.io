@@ -47,7 +47,7 @@ redirect_from:
     <br/><br/>
 </body>
 
-* Name: Your Name 
+* Name: Chunyao Duan
 * Phone and WeChat: 13640501616 / Email: [2300011338@stu.pku.edu.cn](2300011338@stu.pku.edu.cn)
 * Personal Website: [potion-duan.github.io](https://potion-duan.github.io/)
 
