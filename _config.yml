@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "-Pkuhub's site"
+title                    : "Chunyao Duan's site"
 title_separator          : "-"
 name                     : &name "xker "
 description              : &description "111"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yourname"
+  name             : "Chunyao Duan"
   avatar           : "white.png"
   bio              : "Peking University"
   location         : "China Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "help@pkuhub.cn"
+  email            : "2300011338@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pkuhub-dev"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
