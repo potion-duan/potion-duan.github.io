@@ -48,18 +48,18 @@ redirect_from:
 </body>
 
 * Name: Your Name 
-* Phone and WeChat: 15705694836 / Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* Personal Website: [iculizhi.github.io](https://iculizhi.github.io/)
+* Phone and WeChat: 13640501616 / Email: [2300011338@stu.pku.edu.cn](2300011338@stu.pku.edu.cn)
+* Personal Website: [potion-duan.github.io](https://potion-duan.github.io/)
 
 Education
 ======
-* Undergraduate: Beijing, Peking University, 2022
-  * Major: Information and Computing Science (Turing Class), School of Electronics Engineering and Computer Science
+* Undergraduate: Beijing, Peking University, 2023
+  * Major: Physics, School of Physics
   * Double Degree: Economics, National School of Development
 
 Awards
 ======
-* Silver Medal, China Mathematical Olympiad (CMO)
+* Golden Medal, Chinese Physics Olympiad (CPhO)
 
 <!--
 Work experience
