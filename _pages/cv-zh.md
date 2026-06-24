@@ -45,14 +45,15 @@ redirect_from:
     <br/><br/>
 </body>
 
-* 姓名: Your Name
-* 电话及微信 15705694836 / 邮箱 [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* 个人主页：[iculizhi.github.io](https://iculizhi.github.io/)
+* 姓名: 段淳耀
+* 电话及微信 13640501616 / 邮箱 [2300011338@stu.pku.edu.cn](2300011338@stu.pku.edu.cn)
+* 个人主页：[potion-duan.github.io](https://potion-duan.github.io/)
+
 
 学历
 ======
-* 本科：北京，北京大学，2022
-  * 专业：信息与计算科学（图灵班），信息科学技术学院
+* 本科：北京，北京大学，2023
+  * 专业：物理学，物理学院
   * 双学位：经济学，国家发展研究院
 
 
