@@ -19,7 +19,11 @@ My research interests and skills are concentrated in the fields of hepex.
 The website is still under construction. Codes and course notes are uploading quickly.
 
 <h2>Pageviews</h2>
+<<<<<<< HEAD
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=TotgUc16tGNawSb8uG8ApnWC8tMLjeLuiR0R0d9Wb8w'></script>
+=======
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=JwtdIZ7NgT4xb7aFAAUUUlbHEZkgpDU3jpMPGHFBy8s"></script>
+>>>>>>> new-branch
 <h2>Contact me</h2>
 
 
